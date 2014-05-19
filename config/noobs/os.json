@@ -1,7 +1,0 @@
-{
-  "name": "@DISTRONAME@",
-  "version": "@OPENELEC_VERSION@",
-  "release_date": "@RELEASE_DATE@",
-  "kernel": "@KERNEL_VERSION@",
-  "description": "@DESCRIPTION@"
-}
